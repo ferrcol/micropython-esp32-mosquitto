@@ -10,6 +10,6 @@ Dentro del código se debe cargar los datos de red, SSID y contraseña. Además 
  
 Se utiliza un módulo [ESP32S de NodeMCU](https://docs.ai-thinker.com/_media/esp32/docs/nodemcu-32s_product_specification.pdf) y un [hidrometro DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf). En la siguiente imagen se muestra el conexionado:
  
-![Circuito](/assets/img/Circuito.png)
+![Circuito](/img/Circuito.png)
  
 Donde el pin de datos del hidrómetro se conecta al pin 22 del módulo.
